@@ -16,6 +16,8 @@ A little experimental platform game I made, inspired by deathrun/BunnyHop maps y
 - Simple main menu with level selection and Volume slider
 - Focus on movement, timing, and player flow
 
+You can download and try it on Itch.io: https://gorbar.itch.io/prototype-platform
+
 
 
 
@@ -36,8 +38,6 @@ My first attempt at making a complete map from start to finish to practice Level
   <img src="images/Screenshot6.png" width="500" />
   <img src="images/Screenshot7.png" width="500" />
 </div>
-
-
 
 
 
