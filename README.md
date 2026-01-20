@@ -7,12 +7,7 @@ I'm an aspiring game developer with a strong interest in Level Design, Game Desi
 
 ## Prototype Platform
 
-
-
-
-
-
-
+![Prototype Screenshot](images/Screenshot1.png)
 
 A little experimental platform game I made, inspired by deathrun/BunnyHop maps you can typically find in famous Source Games (Counter-Strike, Half-Life 2, Garry’s Mod, etc.). The game features two levels, the second with branching paths, a little Main Menu with a Level selector and a Volume Slider.
 
@@ -25,7 +20,7 @@ A little experimental platform game I made, inspired by deathrun/BunnyHop maps y
 
 My first attempt at making a complete map from start to finish to practice Level Design with basic scripting, combat, exploration and puzzle solving. 
 
-
+![HL2 Screenshot](images/Screenshot2.png)
 
 ##Work-In-Progress Projects
 
