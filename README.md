@@ -15,9 +15,9 @@ A little experimental platform game I made, inspired by deathrun/BunnyHop maps y
 - Two playable levels (one with branching paths)
 - Simple main menu with level selection and Volume slider
 - Focus on movement, timing, and player flow
-
-You can download and try it on Itch.io: https://gorbar.itch.io/prototype-platform
-
+<a href="https://gorbar.itch.io/prototype-platform">
+You can download and try it on Itch.io
+</a>
 
 
 
@@ -26,7 +26,7 @@ You can download and try it on Itch.io: https://gorbar.itch.io/prototype-platfor
 
 ![HL2 Screenshot](images/Screenshot2.png)
 My first attempt at making a complete map from start to finish to practice Level Design with basic scripting, combat, exploration and puzzle solving. 
-<a href="https://gorbar.itch.io/practice-hl2ep2-map" style="display:inline-block;padding:10px 20px;background-color:#4CAF50;color:white;text-decoration:none;border-radius:5px;">
+<a href="https://gorbar.itch.io/practice-hl2ep2-map">
   You can Download the Map on Itch.io
 </a>
 
