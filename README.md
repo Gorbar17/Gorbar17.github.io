@@ -50,6 +50,13 @@ My first attempt at making a complete map from start to finish to practice Level
 <br>
 <br>
 
+## Some practice Animating First Person Animations in Blender
+
+<video src="videos/GunFireAnim.mp4" width="320" height="240" controls></video>
+
+
+
+
 ## Work-In-Progress Projects
 
 <div style="display: flex; gap: 10px; justify-content: center;">
