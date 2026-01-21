@@ -56,17 +56,11 @@ My first attempt at making a complete map from start to finish to practice Level
 
 
 
-
-https://github.com/user-attachments/assets/f8187fb4-8ceb-420a-8f78-367f40e56e66
-
 <video src="videos/GunFireAnim.mp4" width="500" controls></video>
 
 
-https://github.com/user-attachments/assets/c7540c80-6f95-45b9-a686-141e9271a4a3
-
 <video src="videos/GunEquipAnim.mp4" width="500" controls></video>
 
-https://github.com/user-attachments/assets/f3662b8a-794a-47c0-bbae-a3036e2e3959
 
 <video src="videos/GunReloadAnim.mp4" width="500" controls></video>
 
