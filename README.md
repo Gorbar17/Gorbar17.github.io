@@ -23,8 +23,8 @@ You can download and try it on Itch.io
 <br>
 
 <div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="images/Screenshot9.png" width="300" />
-  <img src="images/Screenshot10.png" width="300" />
+  <img src="images/Screenshot9.png" width="500" />
+  <img src="images/Screenshot10.png" width="500" />
 </div>
 
 <br>
@@ -42,9 +42,9 @@ My first attempt at making a complete map from start to finish to practice Level
 <br>
 
 <div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="images/Screenshot11.jpg" width="300" />
-  <img src="images/Screenshot12.png" width="300" />
-  <img src="images/Screenshot13.png" width="300" />
+  <img src="images/Screenshot11.jpg" width="400" />
+  <img src="images/Screenshot12.png" width="400" />
+  <img src="images/Screenshot13.png" width="400" />
 </div>
 
 <br>
