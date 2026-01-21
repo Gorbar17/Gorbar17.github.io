@@ -52,19 +52,33 @@ My first attempt at making a complete map from start to finish to practice Level
 
 ## Some practice Animating First Person Animations in Blender
 
-<video src="videos/GunFireAnim.mp4" width="320" height="240" controls></video>
 
 
+
+
+
+https://github.com/user-attachments/assets/f8187fb4-8ceb-420a-8f78-367f40e56e66
+
+
+
+https://github.com/user-attachments/assets/c7540c80-6f95-45b9-a686-141e9271a4a3
+
+
+
+https://github.com/user-attachments/assets/f3662b8a-794a-47c0-bbae-a3036e2e3959
+
+
+<br>
 
 
 ## Work-In-Progress Projects
 
 <div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="images/Screenshot3.png" width="500" />
-  <img src="images/Screenshot8.png" width="500" />
-  <img src="images/Screenshot5.png" width="500" />
-  <img src="images/Screenshot6.png" width="500" />
-  <img src="images/Screenshot7.png" width="500" />
+  <img src="images/Screenshot3.png" width="400" />
+  <img src="images/Screenshot8.png" width="400" />
+  <img src="images/Screenshot5.png" width="400" />
+  <img src="images/Screenshot6.png" width="400" />
+  <img src="images/Screenshot7.png" width="400" />
 </div>
 
 
@@ -74,6 +88,7 @@ My first attempt at making a complete map from start to finish to practice Level
 <!--
 **ShiroyashaII/ShiroyashaII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<video src="videos/GunFireAnim.mp4" width="320" height="240" controls></video>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
